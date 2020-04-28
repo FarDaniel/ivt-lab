@@ -24,9 +24,6 @@
 		<sonar.host.url>
 			https://sonarcloud.io
 		</sonar.host.url>
-		<sonar.login>
-			f109ee5d07ffc5ad2371f556cf40e69fc6e3d612
-		</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
